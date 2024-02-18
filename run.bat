@@ -1,0 +1,1 @@
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& 'C:\Documents\script.ps1'"
